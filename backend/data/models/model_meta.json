@@ -1,0 +1,9 @@
+{
+  "algorithm": "LBPH (Local Binary Patterns Histograms)",
+  "detector": "Haar Cascade (haarcascade_frontalface_default.xml)",
+  "total_students_trained": 3,
+  "total_samples_used": 6,
+  "trained_at": "2026-10-26T04:28:53.313673+00:00",
+  "confidence_threshold": 75.0,
+  "training_time_seconds": 0.015
+}
